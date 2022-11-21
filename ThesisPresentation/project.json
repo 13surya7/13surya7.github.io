@@ -1,0 +1,2039 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "1_1_Title",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N00_TitleSlide_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "PCC Overview",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Cat with grin",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Grin without Cat",
+                "type": "loop",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 4
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "Grin Separated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "Photon and Polarization",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 6
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Experimental Realization",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 5.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 7
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Kappa",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0007.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 8
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Kappa",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0008.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 5.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 9
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "Kappa",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N01_Outline_0009.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 8.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 10
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "2_2_Single Particle",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.56,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 11
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "2_2_Ensemble",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 6.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 12
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "2_3_Superposed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 13
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "2_4_Wave and Particle ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 14
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "2_5_Approach",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 15
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "2_6_Projective",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 16
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "2_7_Preselection",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "Post-Selection",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0007.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 18
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Inference1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0008.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0019.mp4",
+                "in_project_thumbnail": "thumb_0019.jpg",
+                "in_project_id": 19,
+                "parent_id": 19
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "2_8_Question 1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0009.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0020.mp4",
+                "in_project_thumbnail": "thumb_0020.jpg",
+                "in_project_id": 20,
+                "parent_id": 20
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "2_9_Result 2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0010.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0021.mp4",
+                "in_project_thumbnail": "thumb_0021.jpg",
+                "in_project_id": 21,
+                "parent_id": 21
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "2_10_Inference2",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0011.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0022.mp4",
+                "in_project_thumbnail": "thumb_0022.jpg",
+                "in_project_id": 22,
+                "parent_id": 22
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "2_11_Resolution",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0012.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0023.mp4",
+                "in_project_thumbnail": "thumb_0023.jpg",
+                "in_project_id": 23,
+                "parent_id": 23
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "2_12_Weak Values",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0013.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0024.mp4",
+                "in_project_thumbnail": "thumb_0024.jpg",
+                "in_project_id": 24,
+                "parent_id": 24
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "2_13_Formulation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N02_CCC1_0014.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0025.mp4",
+                "in_project_thumbnail": "thumb_0025.jpg",
+                "in_project_id": 25,
+                "parent_id": 25
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0026.mp4",
+                "in_project_thumbnail": "thumb_0026.jpg",
+                "in_project_id": 26,
+                "parent_id": 26
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Setup",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0027.mp4",
+                "in_project_thumbnail": "thumb_0027.jpg",
+                "in_project_id": 27,
+                "parent_id": 27
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Pre",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0028.mp4",
+                "in_project_thumbnail": "thumb_0028.jpg",
+                "in_project_id": 28,
+                "parent_id": 28
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Post",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0029.mp4",
+                "in_project_thumbnail": "thumb_0029.jpg",
+                "in_project_id": 29,
+                "parent_id": 29
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "pathObservable",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0030.mp4",
+                "in_project_thumbnail": "thumb_0030.jpg",
+                "in_project_id": 30,
+                "parent_id": 30
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "spinObservable",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N03_PCC1_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0031.mp4",
+                "in_project_thumbnail": "thumb_0031.jpg",
+                "in_project_id": 31,
+                "parent_id": 31
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N04_PCC2_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0032.mp4",
+                "in_project_thumbnail": "thumb_0032.jpg",
+                "in_project_id": 32,
+                "parent_id": 32
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N05_PCC3a_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0033.mp4",
+                "in_project_thumbnail": "thumb_0033.jpg",
+                "in_project_id": 33,
+                "parent_id": 33
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Full Setup",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N05_PCC3a_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0034.mp4",
+                "in_project_thumbnail": "thumb_0034.jpg",
+                "in_project_id": 34,
+                "parent_id": 34
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N06_PCC3b_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0035.mp4",
+                "in_project_thumbnail": "thumb_0035.jpg",
+                "in_project_id": 35,
+                "parent_id": 35
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N07_PCC4_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0036.mp4",
+                "in_project_thumbnail": "thumb_0036.jpg",
+                "in_project_id": 36,
+                "parent_id": 36
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N08_PCC5_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0037.mp4",
+                "in_project_thumbnail": "thumb_0037.jpg",
+                "in_project_id": 37,
+                "parent_id": 37
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0038.mp4",
+                "in_project_thumbnail": "thumb_0038.jpg",
+                "in_project_id": 38,
+                "parent_id": 38
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Initial Uncertainty",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0039.mp4",
+                "in_project_thumbnail": "thumb_0039.jpg",
+                "in_project_id": 39,
+                "parent_id": 39
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "WeakInteraction",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0040.mp4",
+                "in_project_thumbnail": "thumb_0040.jpg",
+                "in_project_id": 40,
+                "parent_id": 40
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "WeakZoom",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0041.mp4",
+                "in_project_thumbnail": "thumb_0041.jpg",
+                "in_project_id": 41,
+                "parent_id": 41
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "SeparationRatio",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0042.mp4",
+                "in_project_thumbnail": "thumb_0042.jpg",
+                "in_project_id": 42,
+                "parent_id": 42
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "WeakInteraction Restore",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N09_CCC4_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0043.mp4",
+                "in_project_thumbnail": "thumb_0043.jpg",
+                "in_project_id": 43,
+                "parent_id": 43
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N10_WM1b_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0044.mp4",
+                "in_project_thumbnail": "thumb_0044.jpg",
+                "in_project_id": 44,
+                "parent_id": 44
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "WeakVaue",
+                "type": "loop",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N11_WM2_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 5.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0045.mp4",
+                "in_project_thumbnail": "thumb_0045.jpg",
+                "in_project_id": 45,
+                "parent_id": 45
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N12_PCC6_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0046.mp4",
+                "in_project_thumbnail": "thumb_0046.jpg",
+                "in_project_id": 46,
+                "parent_id": 46
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0047.mp4",
+                "in_project_thumbnail": "thumb_0047.jpg",
+                "in_project_id": 47,
+                "parent_id": 47
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0048.mp4",
+                "in_project_thumbnail": "thumb_0048.jpg",
+                "in_project_id": 48,
+                "parent_id": 48
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0049.mp4",
+                "in_project_thumbnail": "thumb_0049.jpg",
+                "in_project_id": 49,
+                "parent_id": 49
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0050.mp4",
+                "in_project_thumbnail": "thumb_0050.jpg",
+                "in_project_id": 50,
+                "parent_id": 50
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 5.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0051.mp4",
+                "in_project_thumbnail": "thumb_0051.jpg",
+                "in_project_id": 51,
+                "parent_id": 51
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0052.mp4",
+                "in_project_thumbnail": "thumb_0052.jpg",
+                "in_project_id": 52,
+                "parent_id": 52
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0053.mp4",
+                "in_project_thumbnail": "thumb_0053.jpg",
+                "in_project_id": 53,
+                "parent_id": 53
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N13_NH1_0007.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0054.mp4",
+                "in_project_thumbnail": "thumb_0054.jpg",
+                "in_project_id": 54,
+                "parent_id": 54
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0055.mp4",
+                "in_project_thumbnail": "thumb_0055.jpg",
+                "in_project_id": 55,
+                "parent_id": 55
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0056.mp4",
+                "in_project_thumbnail": "thumb_0056.jpg",
+                "in_project_id": 56,
+                "parent_id": 56
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0057.mp4",
+                "in_project_thumbnail": "thumb_0057.jpg",
+                "in_project_id": 57,
+                "parent_id": 57
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0058.mp4",
+                "in_project_thumbnail": "thumb_0058.jpg",
+                "in_project_id": 58,
+                "parent_id": 58
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0059.mp4",
+                "in_project_thumbnail": "thumb_0059.jpg",
+                "in_project_id": 59,
+                "parent_id": 59
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0060.mp4",
+                "in_project_thumbnail": "thumb_0060.jpg",
+                "in_project_id": 60,
+                "parent_id": 60
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N14_NH2_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0061.mp4",
+                "in_project_thumbnail": "thumb_0061.jpg",
+                "in_project_id": 61,
+                "parent_id": 61
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0062.mp4",
+                "in_project_thumbnail": "thumb_0062.jpg",
+                "in_project_id": 62,
+                "parent_id": 62
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0063.mp4",
+                "in_project_thumbnail": "thumb_0063.jpg",
+                "in_project_id": 63,
+                "parent_id": 63
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0064.mp4",
+                "in_project_thumbnail": "thumb_0064.jpg",
+                "in_project_id": 64,
+                "parent_id": 64
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0065.mp4",
+                "in_project_thumbnail": "thumb_0065.jpg",
+                "in_project_id": 65,
+                "parent_id": 65
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0066.mp4",
+                "in_project_thumbnail": "thumb_0066.jpg",
+                "in_project_id": 66,
+                "parent_id": 66
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0067.mp4",
+                "in_project_thumbnail": "thumb_0067.jpg",
+                "in_project_id": 67,
+                "parent_id": 67
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0068.mp4",
+                "in_project_thumbnail": "thumb_0068.jpg",
+                "in_project_id": 68,
+                "parent_id": 68
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0007.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0069.mp4",
+                "in_project_thumbnail": "thumb_0069.jpg",
+                "in_project_id": 69,
+                "parent_id": 69
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0008.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0070.mp4",
+                "in_project_thumbnail": "thumb_0070.jpg",
+                "in_project_id": 70,
+                "parent_id": 70
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0009.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0071.mp4",
+                "in_project_thumbnail": "thumb_0071.jpg",
+                "in_project_id": 71,
+                "parent_id": 71
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0010.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0072.mp4",
+                "in_project_thumbnail": "thumb_0072.jpg",
+                "in_project_id": 72,
+                "parent_id": 72
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0011.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0073.mp4",
+                "in_project_thumbnail": "thumb_0073.jpg",
+                "in_project_id": 73,
+                "parent_id": 73
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0012.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0074.mp4",
+                "in_project_thumbnail": "thumb_0074.jpg",
+                "in_project_id": 74,
+                "parent_id": 74
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0013.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0075.mp4",
+                "in_project_thumbnail": "thumb_0075.jpg",
+                "in_project_id": 75,
+                "parent_id": 75
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0014.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0076.mp4",
+                "in_project_thumbnail": "thumb_0076.jpg",
+                "in_project_id": 76,
+                "parent_id": 76
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0015.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0077.mp4",
+                "in_project_thumbnail": "thumb_0077.jpg",
+                "in_project_id": 77,
+                "parent_id": 77
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N15_K1_0016.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0078.mp4",
+                "in_project_thumbnail": "thumb_0078.jpg",
+                "in_project_id": 78,
+                "parent_id": 78
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0079.mp4",
+                "in_project_thumbnail": "thumb_0079.jpg",
+                "in_project_id": 79,
+                "parent_id": 79
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0080.mp4",
+                "in_project_thumbnail": "thumb_0080.jpg",
+                "in_project_id": 80,
+                "parent_id": 80
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0081.mp4",
+                "in_project_thumbnail": "thumb_0081.jpg",
+                "in_project_id": 81,
+                "parent_id": 81
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0082.mp4",
+                "in_project_thumbnail": "thumb_0082.jpg",
+                "in_project_id": 82,
+                "parent_id": 82
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0083.mp4",
+                "in_project_thumbnail": "thumb_0083.jpg",
+                "in_project_id": 83,
+                "parent_id": 83
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0084.mp4",
+                "in_project_thumbnail": "thumb_0084.jpg",
+                "in_project_id": 84,
+                "parent_id": 84
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N16_K2_0006.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0085.mp4",
+                "in_project_thumbnail": "thumb_0085.jpg",
+                "in_project_id": 85,
+                "parent_id": 85
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0086.mp4",
+                "in_project_thumbnail": "thumb_0086.jpg",
+                "in_project_id": 86,
+                "parent_id": 86
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0087.mp4",
+                "in_project_thumbnail": "thumb_0087.jpg",
+                "in_project_id": 87,
+                "parent_id": 87
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0088.mp4",
+                "in_project_thumbnail": "thumb_0088.jpg",
+                "in_project_id": 88,
+                "parent_id": 88
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0089.mp4",
+                "in_project_thumbnail": "thumb_0089.jpg",
+                "in_project_id": 89,
+                "parent_id": 89
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0004.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 3.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0090.mp4",
+                "in_project_thumbnail": "thumb_0090.jpg",
+                "in_project_id": 90,
+                "parent_id": 90
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "named ",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N17_K3_0005.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0091.mp4",
+                "in_project_thumbnail": "thumb_0091.jpg",
+                "in_project_id": 91,
+                "parent_id": 91
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "movie",
+                "type": "loop",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N18_K4_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "7325/291",
+                "duration": 11.64,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0092.mp4",
+                "in_project_thumbnail": "thumb_0092.jpg",
+                "in_project_id": 92,
+                "parent_id": 92
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N19_Summary_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 1.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0093.mp4",
+                "in_project_thumbnail": "thumb_0093.jpg",
+                "in_project_id": 93,
+                "parent_id": 93
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "Summary PCC",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N19_Summary_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0094.mp4",
+                "in_project_thumbnail": "thumb_0094.jpg",
+                "in_project_id": 94,
+                "parent_id": 94
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Summary NH",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N19_Summary_0002.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 2.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0095.mp4",
+                "in_project_thumbnail": "thumb_0095.jpg",
+                "in_project_id": 95,
+                "parent_id": 95
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "Summary Kappa",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\Suryans\\Documents\\GitHub\\thesisPrezCode\\media\\videos\\thesisPrez\\720p25\\sections\\N19_Summary_0003.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "25",
+                "duration": 4.0,
+                "project_name": "ThesisPresentation",
+                "in_project_video": "video_0096.mp4",
+                "in_project_thumbnail": "thumb_0096.jpg",
+                "in_project_id": 96,
+                "parent_id": 96
+            }
+        ]
+    }
+]
